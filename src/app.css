@@ -31,6 +31,24 @@ button {
   line-height: 2.5rem;
 }
 
+.add-form {
+  margin-top: 1.5em;
+  margin-left: 0.5em;
+  font-size: 2rem;
+}
+
+.add-input {
+  margin-right: 0.5em;
+}
+
+.add-button {
+  height: 100%;
+  font-size: 1.5rem;
+  padding: 0.3em 0.5em;
+  background-color: green;
+  color: white;
+}
+
 .habit {
   font-size: 2.5rem;
   padding: 0.5em;
@@ -69,4 +87,12 @@ button {
 .habit-delete {
   font-size: 2rem;
   color: darkred;
+}
+
+.habits-reset {
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  margin-left: 1em;
+  background-color: green;
+  color: white;
 }
